@@ -1,0 +1,7 @@
+*.un~
+*.swp
+
+_site
+.sass-cache
+.jekyll-metadata
+_deploy.yml

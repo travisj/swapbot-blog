@@ -1,0 +1,12 @@
+---
+id: 8917
+title: 'sunday link love: Earth Day edition!'
+date: 2012-04-22T10:14:39+00:00
+author: rachel
+layout: post
+guid: http://blog.swap-bot.com/?p=8917
+permalink: /2012/04/22/sundaylinklove/
+categories:
+  - friday link love
+---
+<img src="http://blog.swap-bot.com/wp-content/uploads/2012/04/earthday.jpg" alt="" title="earthday" width="470" height="470" class="alignnone size-full wp-image-8927" srcset="http://blog.swap-bot.com/wp-content/uploads/2012/04/earthday-150x150.jpg 150w, http://blog.swap-bot.com/wp-content/uploads/2012/04/earthday-300x300.jpg 300w, http://blog.swap-bot.com/wp-content/uploads/2012/04/earthday.jpg 470w" sizes="(max-width: 470px) 100vw, 470px" /></p> Happy Earth Day! The Friday links were a little delayed this week, but I have some good ones for you today&#8230; and today is a good day to think about recycling and crafting and trying to do our best to be good to our planet, so it all works out. Enjoy!  * Perfect for Earth Day: [Creative Reuse and Crafting podcast](http://www.craftypod.com/2012/04/20/free-podcast-creative-reuse-and-crafting-with-michele-pacey/) from CraftyPod.  * You&#8217;ve probably already seen this adorable video about 9-year-old [Caine&#8217;s Arcade](http://vimeo.com/40000072), but if not, watch it. You&#8217;ll love it. Plus, it is a great story about upcycling trash into fun via imagination!  * And in similar news&#8230; [Reasons for Optimism.](http://reasonsforoptimism.com/)  * Love knitting and animals? [Knit and donate blankets for foster dogs at the Battersea Dog & Cat Home.](http://www.battersea.org.uk/about_us/whats_new/foster_blanket.html)  * A very cool art swapping project: [discard.](http://discarder.blogspot.com/)  * The [best NYC craft stores](http://www.timeout.com/newyork/shopping/the-best-nyc-craft-stores) according to Time Out New York.  * The easiest, sweetest [paper dots garland how-to](http://ohhappyday.com/2012/04/paper-dots-garland/) from Oh Happy Day.  * Just for yum: [Rolo Cheesecake Bars](http://www.bakersroyale.com/bars-and-cookie-bars/rolo-cheesecake-bars/) from Bakers Royale.  * We have the awesomest, kindest members! I LOVE [this swap](http://www.swap-bot.com/swap/show/118529)!Have a great end to your weekend&#8230; live it up!

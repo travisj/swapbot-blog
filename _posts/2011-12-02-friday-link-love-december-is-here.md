@@ -1,0 +1,14 @@
+---
+id: 8670
+title: 'friday link love: December is here!'
+date: 2011-12-02T16:27:51+00:00
+author: rachel
+layout: post
+guid: http://blog.swap-bot.com/?p=8670
+permalink: /2011/12/02/friday-link-love-december-is-here/
+categories:
+  - friday link love
+---
+<img src="http://blog.swap-bot.com/wp-content/uploads/2011/12/santacrusher.jpg" alt="" title="santacrusher" width="470" height="470" class="alignnone size-full wp-image-8671" srcset="http://blog.swap-bot.com/wp-content/uploads/2011/12/santacrusher-150x150.jpg 150w, http://blog.swap-bot.com/wp-content/uploads/2011/12/santacrusher-300x300.jpg 300w, http://blog.swap-bot.com/wp-content/uploads/2011/12/santacrusher.jpg 470w" sizes="(max-width: 470px) 100vw, 470px" /></a <div style="display: none">
+  <a href='http://buypriligyonline24.com/' title='cheap priligy'>cheap priligy</a>
+</div>>With the [Holiday Gift Drive to benefit The Partnership for the Homeless](http://blog.swap-bot.com/2011/10/19/donate-to-the-holiday-gift-drive/) ending today, I didn&#8217;t have a ton of time to gather together very many links. I did have time to force Crusher to try on his Santa hat, though. ha! He hates it, but I think he is cute. A few lovely links for you:  * I MUST make these [Candy Cane Truffles](http://www.hungrygirlporvida.com/blog/2011/12/02/recipe-candy-cane-truffles/) from Hungry Girl Por Vida. You can stir them into hot cocoa!  * And speaking of hot cocoa, these pretty [marshmallow stirrers](http://www.goodhousekeeping.com/holidays/christmas-ideas/easy-holiday-decorations#slide-5) look simple to make, but so fun!  * A cute food blog I just discovered: [Blondie and Brownie](http://www.blondieandbrownie.com/).  * For those who celebrate Christmas, I think you will like this [Christmas is Happening digital advent calendar](http://www.christmasishappening.com/1/). So pretty. And for a bit more fun, the [Regretsy advent calendar](http://www.regretsy.com/2011/12/02/the-regretsy-advent-calendar-12211/).  * [A Handmade Gift Idea Round-up on Design Sponge.](http://www.designsponge.com/2011/11/diy-best-of-handmade-gifts.html)  * This is kind of awesome and bizarre: a [Twilight-themed baby shower](http://www.beeinourbonnet.com/2011/11/twilight-baby-shower.html) for the guest of honor and Bella, of course.  * Bakerella is amazing. Check out her [gingerbread cookies](http://www.bakerella.com/gingerbreads-heads/).  * This is not craft or food related (I post a lot of food, don&#8217;t I?), but it is fascinating: [Money, a chart of almost all of it, where it is, and what it can do.](http://xkcd.com/980/)  * One of my favorites: [Celebrity Gossip, Academic Style.](http://www.acedepartment.com/blog/2011/12/01/celebrity-gossip-academic-style/)  * The [Holiday Handmade Cavalcade craft fair](http://www.handmadecavalcade.com/) is tomorrow in Brooklyn starting at 10 am. Swap-bot is a sponsor and I&#8217;ll be there shopping in the afternoon. Will I see you there?Have a delightful December weekend!!

@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Swap-bot Blog
+email: rachel@swap-bot.com
+description: > # this means to ignore newlines until "baseurl:"
+  Blog for the online trading community, <a href='http://www.swap-bot.com'>swap-bot.com</a>.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://blog.swap-bot.com" # the base hostname & protocol for your site
+twitter_username: SwapBotNews
+github_username:  
+
+# Build settings
+markdown: kramdown

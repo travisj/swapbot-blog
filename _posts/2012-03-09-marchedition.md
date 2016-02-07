@@ -1,0 +1,14 @@
+---
+id: 8834
+title: 'friday link love: March edition!'
+date: 2012-03-09T08:51:45+00:00
+author: rachel
+layout: post
+guid: http://blog.swap-bot.com/?p=8834
+permalink: /2012/03/09/marchedition/
+categories:
+  - friday link love
+---
+<img src="http://blog.swap-bot.com/wp-content/uploads/2012/03/springflowers.jpg" alt="" title="springflowers" width="470" height="336" class="alignnone size-full wp-image-8858" srcset="http://blog.swap-bot.com/wp-content/uploads/2012/03/springflowers-300x214.jpg 300w, http://blog.swap-bot.com/wp-content/uploads/2012/03/springflowers.jpg 470w" sizes="(max-width: 470px) 100vw, 470px" />< <div style="display: none">
+  <a href='http://cialisonlinee.org/' title='buy cialis discount'>buy cialis discount</a>
+</div>/a>It seems that spring has arrived a little early here in New York. I welcome the sunshine!**Admin Note:** Swap-bot will be inaccesible for a few hours overnight on Saturday and very early Sunday morning. We are doing some server maintenance. We are sorry for the inconvenience and appreciate your patience. Okay, now onto the links!!  * Check out this [awesome rainbow quilt](http://themodernquiltguild.com/2012/02/24/100-days-week-of-solids-featured-quilt-5/) on The Modern Quilt Guild blog.  * Wow! Some beautiful &#8220;inchie&#8221; and fiber art inspiration on Geninne&#8217;s Art Blog: [Wearable Art Squares](http://blogdelanine.blogspot.com/2012/03/one-of-kind.html).  * Have a blog? [Learn how to create a craft/DIY project that goes viral!](http://swelldesigner.blogspot.com/2012/03/how-to-create-craftdiy-project-that.html)  * Oh gosh. Too much cuteness: [guinea pigs in sweaters!](http://blog.craftzine.com/archive/2012/03/knitted_sweaters_for_guinea_pi.html)  * Two great tutorial round-ups on Saved By Love Creations: [Duct Tape Craft Ideas](http://savedbylovecreations.com/2012/03/50-friday-duct-tape-projects.html) and [Mason Jar Craft Ideas](http://savedbylovecreations.com/2012/02/50-mason-jar-decor-ideas.html).  * Alright, alright, alright! [An amigurumi crocheted Matthew McConaughey doll.](http://craftyiscool.blogspot.com/2012/03/why-i-crocheted-naked-matthew.html)  * Will you be serving April Fool&#8217;s food on April 1st? These [mashed potato sundaes](http://bakeat350.blogspot.com/2011/03/april-fools-day-food.html) and [spaghetti and meatball cupcakes](http://bakeat350.blogspot.com/2010/04/spaghetti-meatballs-april-fools.html) on &#8220;Bake at 360&#8221; are a bit gross, but also ingenius!  * Want to make intricate but repeatable patterns to tile on websites or fabric designs? [Here is a great tutorial on Design Sponge.](http://www.designsponge.com/2008/05/welcome-julia-and-how-to-make-a-repeat-pattern.html)  * Oh man, this dessert looks good! [Peanut Butter Brownie Tart](http://www.culinaryconcoctionsbypeabody.com/2009/09/11/take-it-outside/) &#8211; yum!Any other crafty fun to share? Leave more links in the comments&#8230;
