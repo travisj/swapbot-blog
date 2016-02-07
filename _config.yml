@@ -11,7 +11,7 @@ email: rachel@swap-bot.com
 description: > # this means to ignore newlines until "baseurl:"
   Blog for the online trading community, <a href='http://www.swap-bot.com'>swap-bot.com</a>.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.swap-bot.com" # the base hostname & protocol for your site
+url: "http://blog.swap-bot.com" # the base hostname & protocol for your site
 twitter_username: SwapBotNews
 github_username:  
 
