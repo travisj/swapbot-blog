@@ -16,10 +16,10 @@ body {
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
-  -moz-font-feature-settings: "kern" 1;
   -o-font-feature-settings: "kern" 1;
   font-feature-settings: "kern" 1;
-  font-kerning: normal; }
+  -webkit-font-kerning: normal;
+          font-kerning: normal; }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -112,7 +112,6 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(860px - (30px * 2));
   max-width: calc(860px - (30px * 2));
   margin-right: auto;
   margin-left: auto;
@@ -120,7 +119,6 @@ pre {
   padding-left: 30px; }
   @media screen and (max-width: 800px) {
     .wrapper {
-      max-width: -webkit-calc(860px - (30px));
       max-width: calc(860px - (30px));
       padding-right: 15px;
       padding-left: 15px; } }
@@ -145,14 +143,26 @@ pre {
     fill: #828282; }
 
 body {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
-  flex-wrap: wrap; }
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap; }
   @media screen and (max-width: 600px) {
     body {
-      flex-direction: column; } }
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+          -ms-flex-direction: column;
+              flex-direction: column; } }
 
 body > header {
-  flex: 1 0 100%;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 0 100%;
+      -ms-flex: 1 0 100%;
+          flex: 1 0 100%;
   text-align: center;
   padding-top: 50px;
   background: url(/images/SBstripe.gif) repeat-x; }
@@ -182,12 +192,18 @@ body > header {
             fill: #424242; } }
 
 .page-content {
-  flex: 1 0 70%; }
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 0 70%;
+      -ms-flex: 1 0 70%;
+          flex: 1 0 70%; }
   .page-content .pinterest {
     margin: 5px; }
 
 .sidebar {
-  flex: 1 0 30%; }
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 0 30%;
+      -ms-flex: 1 0 30%;
+          flex: 1 0 30%; }
   @media screen and (max-width: 600px) {
     .sidebar {
       text-align: center; } }
@@ -196,8 +212,13 @@ body > header {
     margin-bottom: 10px; }
 
 footer {
-  flex: 1 0 100%;
-  align-self: flex-start;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 0 100%;
+      -ms-flex: 1 0 100%;
+          flex: 1 0 100%;
+  -webkit-align-self: flex-start;
+      -ms-flex-item-align: start;
+          align-self: flex-start;
   border-top: 1px solid #e8e8e8;
   padding: 30px 0; }
   footer .footer-heading {
