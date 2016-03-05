@@ -63,6 +63,12 @@ body > header {
 	.page-content-wrapper {
 		@extend %wrapper;
 	}
+
+	.home article:first-child {
+		border-bottom: 1px solid $grey-color-light;
+		padding-bottom: 20px;
+		margin-bottom: 20px;
+	}
 }
 
 .sidebar {
