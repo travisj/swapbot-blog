@@ -236,3 +236,18 @@
         }
     }
 }
+
+.column-wrapper {
+	flex-flow: row;
+	display: flex;
+	@include media-query($on-palm) {
+		flex-flow: column;
+	}
+}
+.main-column {
+	flex-basis: 600px;
+}
+
+.right-column {
+	flex-basis: 200px;
+}

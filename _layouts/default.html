@@ -8,10 +8,21 @@
     {% include header.html %}
 
     <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+			<div class="page-content-wrapper">
+				{{ content }}
+			</div>
     </div>
+
+		<div class="sidebar">
+			<div class="sidebar-wrapper">
+				<a href="http://www.swap-bot.com"><img data-pin-nopin="true" src="/images/sidebar.gif"></a>
+				<a href="http://facebook.com/Swapbot"><img data-pin-nopin="true" src="/images/facebook.gif"></a>
+				<a href="http://twitter.com/SwapBotNews"><img data-pin-nopin="true" src="/images/twitter.gif"></a>
+				<a href="/swap-craft-term-glossary"><img data-pin-nopin="true" src="/images/glossary.gif"></a>
+				<a href="/rachels-matchbox-template"><img data-pin-nopin="true" src="/images/template.gif"></a>
+				<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+			</div>
+		</div>
 
     {% include footer.html %}
 

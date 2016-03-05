@@ -4,7 +4,7 @@ title: "Blog Improvements Underway"
 date: 2016-03-03T20:37:27-05:00
 ---
 
-![swag](/images/swapbot_button_postcards.jpg)
+{% include img.html src="/images/swapbot_button_postcards.jpg" description="A bunch of Swap-bot buttons" %}
 
 Hello Swappers! The Swap-bot blog is not dead! I promise.
 
