@@ -143,7 +143,7 @@ body > header {
   text-align: center;
   padding-top: 50px;
   background: url(/images/SBstripe.gif) repeat-x; }
-  body > header .menu-icon {
+  body > header .menu-icon, body > header .trigger {
     display: none; }
   @media screen and (max-width: 600px) {
     body > header {
@@ -171,7 +171,19 @@ body > header {
             width: 18px;
             height: 15px; }
             body > header nav .menu-icon > svg path {
-              fill: #424242; } }
+              fill: #424242; }
+        body > header nav .trigger {
+          clear: both;
+          display: none; }
+        body > header nav:hover .trigger {
+          display: block;
+          padding-bottom: 5px; }
+        body > header nav .page-link {
+          display: block;
+          padding: 5px 10px;
+          margin-left: 20px; }
+          body > header nav .page-link:not(:last-child) {
+            margin-right: 0; } }
 
 .page-content {
   -webkit-box-flex: 1;
@@ -204,6 +216,7 @@ body > header {
     margin-bottom: 10px; }
   @media screen and (max-width: 600px) {
     .sidebar {
+      display: none;
       -webkit-box-flex: 1;
       -webkit-flex: 1 0 auto;
           -ms-flex: 1 0 auto;
