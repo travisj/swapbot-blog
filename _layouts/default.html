@@ -21,6 +21,13 @@
 				<a href="/swap-craft-term-glossary"><img data-pin-nopin="true" src="/images/glossary.gif"></a>
 				<a href="/rachels-matchbox-template"><img data-pin-nopin="true" src="/images/template.gif"></a>
 				<p class="rss-subscribe"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">subscribe via RSS</a></p>
+
+				<select onchange="categorySelectChangeHandler(event);">
+					<option value="_none">Select category...</option>
+					{% for category in site.categories %}
+					<option value="{{ category | first | slugify }}">{{ category | first }}</option>
+					{% endfor %}
+				</select>
 			</div>
 		</div>
 
@@ -28,5 +35,11 @@
 
 		<script id="dsq-count-scr" src="//swapbotblog.disqus.com/count.js" async></script>
   </body>
+
+	<script type="text/javascript">
+		function categorySelectChangeHandler(event) {
+			document.location.href = '/categories/' + event.target.value;
+		}
+	</script>
 
 </html>

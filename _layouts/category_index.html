@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="home">
+	<div class="column-wrapper">
+		<div class="main-column">
+			<h1>{{ page.category }}</h1>
+			{% for post in page.posts %}
+			{% include post_list.html %}
+			{% endfor %}
+		</div>
+	</div>
+</div>

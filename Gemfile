@@ -4,10 +4,9 @@ source "https://rubygems.org"
 gem "jekyll"
 gem "octopress"
 
-#gem "autoprefixer-rails"
-#gem "jekyll-assets"
-
 group :jekyll_plugins do
+	gem "octopress-image-tag"
+	gem "jekyll-babel"
 	gem "jekyll-paginate"
 	gem "octopress-autoprefixer"
 end
