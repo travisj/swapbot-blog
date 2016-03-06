@@ -17,6 +17,7 @@ github_username:
 
 # Build settings
 markdown: kramdown
+paginate: 10
 
 gems:
   - octopress-autoprefixer
