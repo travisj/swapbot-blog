@@ -3,6 +3,10 @@ GEM
   specs:
     autoprefixer-rails (6.3.3.1)
       execjs
+    babel-source (5.8.35)
+    babel-transpiler (0.7.0)
+      babel-source (>= 4.0, < 6)
+      execjs (~> 2.0)
     colorator (0.1)
     execjs (2.6.0)
     ffi (1.9.10)
@@ -15,6 +19,8 @@ GEM
       mercenary (~> 0.3.3)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
+    jekyll-babel (1.1.0)
+      babel-transpiler
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
@@ -43,6 +49,8 @@ GEM
       jekyll (~> 3.0)
     octopress-hooks (2.6.1)
       jekyll (>= 2.0)
+    octopress-image-tag (1.1.0)
+      jekyll
     rb-fsevent (0.9.7)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
@@ -57,9 +65,11 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  jekyll-babel
   jekyll-paginate
   octopress
   octopress-autoprefixer
+  octopress-image-tag
 
 BUNDLED WITH
    1.11.2

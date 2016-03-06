@@ -192,7 +192,7 @@ body > header {
           flex: 1 0 70%; }
   .page-content .pinterest {
     margin: 5px; }
-  .page-content .home article:first-child {
+  .page-content .home article {
     border-bottom: 1px solid #e8e8e8;
     padding-bottom: 20px;
     margin-bottom: 20px; }
