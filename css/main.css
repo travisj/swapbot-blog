@@ -146,27 +146,32 @@ body > header {
   body > header .menu-icon {
     display: none; }
   @media screen and (max-width: 600px) {
-    body > header nav {
-      position: absolute;
-      top: 9px;
-      right: 15px;
-      background-color: #fdfdfd;
-      border: 1px solid #e8e8e8;
-      border-radius: 5px;
-      text-align: right; }
-      body > header nav .menu-icon {
-        display: block;
-        float: right;
-        width: 36px;
-        height: 26px;
-        line-height: 0;
-        padding-top: 10px;
-        text-align: center; }
-        body > header nav .menu-icon > svg {
-          width: 18px;
-          height: 15px; }
-          body > header nav .menu-icon > svg path {
-            fill: #424242; } }
+    body > header {
+      -webkit-box-flex: 1;
+      -webkit-flex: 1 0 auto;
+          -ms-flex: 1 0 auto;
+              flex: 1 0 auto; }
+      body > header nav {
+        position: absolute;
+        top: 9px;
+        right: 15px;
+        background-color: #fdfdfd;
+        border: 1px solid #e8e8e8;
+        border-radius: 5px;
+        text-align: right; }
+        body > header nav .menu-icon {
+          display: block;
+          float: right;
+          width: 36px;
+          height: 26px;
+          line-height: 0;
+          padding-top: 10px;
+          text-align: center; }
+          body > header nav .menu-icon > svg {
+            width: 18px;
+            height: 15px; }
+            body > header nav .menu-icon > svg path {
+              fill: #424242; } }
 
 .page-content {
   -webkit-box-flex: 1;
@@ -179,6 +184,12 @@ body > header {
     border-bottom: 1px solid #e8e8e8;
     padding-bottom: 20px;
     margin-bottom: 20px; }
+  @media screen and (max-width: 600px) {
+    .page-content {
+      -webkit-box-flex: 1;
+      -webkit-flex: 1 0 auto;
+          -ms-flex: 1 0 auto;
+              flex: 1 0 auto; } }
 
 .sidebar {
   -webkit-box-flex: 1;
@@ -191,6 +202,12 @@ body > header {
   .sidebar a {
     display: block;
     margin-bottom: 10px; }
+  @media screen and (max-width: 600px) {
+    .sidebar {
+      -webkit-box-flex: 1;
+      -webkit-flex: 1 0 auto;
+          -ms-flex: 1 0 auto;
+              flex: 1 0 auto; } }
 
 footer {
   -webkit-box-flex: 1;
@@ -209,6 +226,12 @@ footer {
   footer .social-media-list {
     list-style: none;
     margin-left: 0; }
+  @media screen and (max-width: 600px) {
+    footer {
+      -webkit-box-flex: 1;
+      -webkit-flex: 1 0 auto;
+          -ms-flex: 1 0 auto;
+              flex: 1 0 auto; } }
 
 body > header .header-wrapper, .page-content .page-content-wrapper, .sidebar .sidebar-wrapper, footer .footer-wrapper {
   margin-right: auto;
