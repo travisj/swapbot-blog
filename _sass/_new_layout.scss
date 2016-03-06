@@ -19,6 +19,7 @@ body > header {
 	}
 
 	@include media-query($on-palm) {
+		flex: 1 0 auto;
 		nav {
 			position: absolute;
 			top: 9px;
@@ -69,6 +70,10 @@ body > header {
 		padding-bottom: 20px;
 		margin-bottom: 20px;
 	}
+
+	@include media-query($on-palm) {
+		flex: 1 0 auto;
+	}
 }
 
 .sidebar {
@@ -84,6 +89,10 @@ body > header {
 
 	.sidebar-wrapper {
 		@extend %wrapper;
+	}
+
+	@include media-query($on-palm) {
+		flex: 1 0 auto;
 	}
 }
 
@@ -105,6 +114,10 @@ footer {
 
 	.footer-wrapper {
 		@extend %wrapper;
+	}
+
+	@include media-query($on-palm) {
+		flex: 1 0 auto;
 	}
 }
 
