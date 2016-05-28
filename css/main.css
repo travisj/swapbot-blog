@@ -121,23 +121,19 @@ pre {
 
 body {
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex-wrap: wrap;
-      -ms-flex-wrap: wrap;
-          flex-wrap: wrap; }
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap; }
   @media screen and (max-width: 600px) {
     body {
       -webkit-box-orient: vertical;
       -webkit-box-direction: normal;
-      -webkit-flex-direction: column;
           -ms-flex-direction: column;
               flex-direction: column; } }
 
 body > header {
   -webkit-box-flex: 1;
-  -webkit-flex: 1 0 100%;
       -ms-flex: 1 0 100%;
           flex: 1 0 100%;
   text-align: center;
@@ -148,7 +144,6 @@ body > header {
   @media screen and (max-width: 600px) {
     body > header {
       -webkit-box-flex: 1;
-      -webkit-flex: 1 0 auto;
           -ms-flex: 1 0 auto;
               flex: 1 0 auto; }
       body > header nav {
@@ -187,7 +182,6 @@ body > header {
 
 .page-content {
   -webkit-box-flex: 1;
-  -webkit-flex: 1 0 70%;
       -ms-flex: 1 0 70%;
           flex: 1 0 70%; }
   .page-content .pinterest {
@@ -199,13 +193,11 @@ body > header {
   @media screen and (max-width: 600px) {
     .page-content {
       -webkit-box-flex: 1;
-      -webkit-flex: 1 0 auto;
           -ms-flex: 1 0 auto;
               flex: 1 0 auto; } }
 
 .sidebar {
   -webkit-box-flex: 1;
-  -webkit-flex: 1 0 30%;
       -ms-flex: 1 0 30%;
           flex: 1 0 30%; }
   @media screen and (max-width: 600px) {
@@ -218,18 +210,15 @@ body > header {
     .sidebar {
       display: none;
       -webkit-box-flex: 1;
-      -webkit-flex: 1 0 auto;
           -ms-flex: 1 0 auto;
               flex: 1 0 auto; } }
 
 footer {
   -webkit-box-flex: 1;
-  -webkit-flex: 1 0 100%;
       -ms-flex: 1 0 100%;
           flex: 1 0 100%;
-  -webkit-align-self: flex-start;
-      -ms-flex-item-align: start;
-          align-self: flex-start;
+  -ms-flex-item-align: start;
+      align-self: flex-start;
   border-top: 1px solid #e8e8e8;
   padding: 30px 0; }
   footer .footer-heading {
@@ -242,7 +231,6 @@ footer {
   @media screen and (max-width: 600px) {
     footer {
       -webkit-box-flex: 1;
-      -webkit-flex: 1 0 auto;
           -ms-flex: 1 0 auto;
               flex: 1 0 auto; } }
 
