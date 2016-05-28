@@ -245,6 +245,71 @@
 				<a href="/swap-craft-term-glossary"><img data-pin-nopin="true" src="/images/glossary.gif"></a>
 				<a href="/rachels-matchbox-template"><img data-pin-nopin="true" src="/images/template.gif"></a>
 				<p class="rss-subscribe"><a href="/feed.xml">subscribe via RSS</a></p>
+
+				<select onchange="categorySelectChangeHandler(event);">
+					<option value="_none">Select category...</option>
+					
+					<option value="announcements">Announcements</option>
+					
+					<option value="general">General</option>
+					
+					<option value="feature-discussion">Feature Discussion</option>
+					
+					<option value="bug-fixes">Bug Fixes</option>
+					
+					<option value="new-features">New Features</option>
+					
+					<option value="weekly-featured-swap">Weekly Featured Swap</option>
+					
+					<option value="press">press</option>
+					
+					<option value="bugs">bugs</option>
+					
+					<option value="blog-review">blog review</option>
+					
+					<option value="friday-link-love">friday link love</option>
+					
+					<option value="website-review">website review</option>
+					
+					<option value="site-updates">site updates</option>
+					
+					<option value="polls">Polls</option>
+					
+					<option value="giveaways">Giveaways</option>
+					
+					<option value="tuesday-tip">Tuesday Tip</option>
+					
+					<option value="member-spotlight">member spotlight</option>
+					
+					<option value="swappy-goodness">Swappy Goodness</option>
+					
+					<option value="free-downloads">free downloads</option>
+					
+					<option value="swapper-report">Swapper Report</option>
+					
+					<option value="guest-post">guest post</option>
+					
+					<option value="tutorial">Tutorial</option>
+					
+					<option value="handmade-marketplace">Handmade Marketplace</option>
+					
+					<option value="craftiness">craftiness</option>
+					
+					<option value="donation-drive">Donation Drive</option>
+					
+					<option value="group-profile">Group Profile</option>
+					
+					<option value="meetup">Meetup</option>
+					
+					<option value="ernie">Ernie</option>
+					
+					<option value="store-bot">Store-bot</option>
+					
+					<option value="ambassadors">Ambassadors</option>
+					
+					<option value="mailboxes-of-the-world">Mailboxes of the World</option>
+					
+				</select>
 			</div>
 		</div>
 
@@ -291,4 +356,11 @@
 
 		<script id="dsq-count-scr" src="//swapbotblog.disqus.com/count.js" async></script>
   </body>
+
+	<script type="text/javascript">
+		function categorySelectChangeHandler(event) {
+			document.location.href = '/categories/' + event.target.value;
+		}
+	</script>
+
 </html>
