@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/local/bin/zsh
 
 JEKYLL_ENV=production jekyll build
 octopress deploy
