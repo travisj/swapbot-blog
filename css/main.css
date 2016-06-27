@@ -247,6 +247,11 @@ body > header .header-wrapper, .page-content .page-content-wrapper, .sidebar .si
       padding-right: 15px;
       padding-left: 15px; } }
 
+.caption {
+  color: #424242;
+  font-style: italic;
+  font-size: 12px; }
+
 /**
  * Syntax highlighting styles
  */
