@@ -31,7 +31,7 @@ The awesome news is that Pipsticks is sponsoring a giveaway for YOU, the Swap-bo
 
 To enter this generous giveaway you must be a Swap-bot member, and you must comment on this blog post with an answer to this question:
 
-**What are your all time favorite stickers?**
+**What are your all-time favorite stickers?**
 
 For example, my all-time favorite stickers are [Star Trek: The Next Generation stickers](https://www.flickr.com/photos/rlj/8723010625/in/photolist-j587ye-fHgT9Q-fEFUhM-ehPH9V-9YEVQi-4pXXNL-4pY6oy-4pY5Qo-4pY3KE) that I bought during the previous millennium. I still have a few sheets!
 
