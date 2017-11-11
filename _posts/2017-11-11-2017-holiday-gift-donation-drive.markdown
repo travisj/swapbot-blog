@@ -4,7 +4,7 @@ title: "2017 Holiday Gift Donation Drive"
 date: 2017-11-11T10:43:35-05:00
 ---
 
-![donation drive](/images/2017/donationdrive2017.png)
+![donation drive](/images/2017/donationdrive2017.jpg)
 
 **Did you know? Over 25,000 children are sleeping in New York City homeless shelters tonight.**
 
