@@ -121,22 +121,14 @@ pre {
 
 body {
   background: url(/images/SBstripe.gif) repeat-x;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap; }
+  flex-wrap: wrap; }
   @media screen and (max-width: 600px) {
     body {
-      -webkit-box-orient: vertical;
-      -webkit-box-direction: normal;
-          -ms-flex-direction: column;
-              flex-direction: column; } }
+      flex-direction: column; } }
 
 body > header {
-  -webkit-box-flex: 1;
-      -ms-flex: 1 0 100%;
-          flex: 1 0 100%;
+  flex: 1 0 100%;
   max-width: 1500px;
   text-align: center;
   padding-top: 50px; }
@@ -144,9 +136,7 @@ body > header {
     display: none; }
   @media screen and (max-width: 600px) {
     body > header {
-      -webkit-box-flex: 1;
-          -ms-flex: 1 0 auto;
-              flex: 1 0 auto; }
+      flex: 1 0 auto; }
       body > header nav {
         position: absolute;
         top: 9px;
@@ -183,9 +173,7 @@ body > header {
 
 .page-content {
   max-width: 1050px;
-  -webkit-box-flex: 1;
-      -ms-flex: 1 0 70%;
-          flex: 1 0 70%; }
+  flex: 1 0 70%; }
   .page-content .pinterest {
     margin: 5px; }
   .page-content .home article {
@@ -194,14 +182,10 @@ body > header {
     margin-bottom: 20px; }
   @media screen and (max-width: 600px) {
     .page-content {
-      -webkit-box-flex: 1;
-          -ms-flex: 1 0 auto;
-              flex: 1 0 auto; } }
+      flex: 1 0 auto; } }
 
 .sidebar {
-  -webkit-box-flex: 1;
-      -ms-flex: 1 0 30%;
-          flex: 1 0 30%;
+  flex: 1 0 30%;
   max-width: 450px; }
   @media screen and (max-width: 600px) {
     .sidebar {
@@ -212,16 +196,11 @@ body > header {
   @media screen and (max-width: 600px) {
     .sidebar {
       display: none;
-      -webkit-box-flex: 1;
-          -ms-flex: 1 0 auto;
-              flex: 1 0 auto; } }
+      flex: 1 0 auto; } }
 
 footer {
-  -webkit-box-flex: 1;
-      -ms-flex: 1 0 100%;
-          flex: 1 0 100%;
-  -ms-flex-item-align: start;
-      align-self: flex-start;
+  flex: 1 0 100%;
+  align-self: flex-start;
   border-top: 1px solid #e8e8e8;
   padding: 30px 0; }
   footer .footer-heading {
@@ -233,9 +212,7 @@ footer {
     margin-left: 0; }
   @media screen and (max-width: 600px) {
     footer {
-      -webkit-box-flex: 1;
-          -ms-flex: 1 0 auto;
-              flex: 1 0 auto; } }
+      flex: 1 0 auto; } }
 
 body > header .header-wrapper, .page-content .page-content-wrapper, .sidebar .sidebar-wrapper, footer .footer-wrapper {
   margin-right: auto;
