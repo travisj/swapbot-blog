@@ -1,4 +1,4 @@
 #!/bin/bash
 
-JEKYLL_ENV=production jekyll build
-octopress deploy
+JEKYLL_ENV=production bundle exec jekyll build
+bundle exec octopress deploy
