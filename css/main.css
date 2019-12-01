@@ -15,7 +15,6 @@ body {
   color: #111;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
-  -webkit-font-feature-settings: "kern" 1;
   -o-font-feature-settings: "kern" 1;
   font-feature-settings: "kern" 1;
   -webkit-font-kerning: normal;
@@ -121,14 +120,18 @@ pre {
 
 body {
   background: url(/images/SBstripe.gif) repeat-x;
+  display: -webkit-box;
   display: flex;
   flex-wrap: wrap; }
   @media screen and (max-width: 600px) {
     body {
-      flex-direction: column; } }
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+              flex-direction: column; } }
 
 body > header {
-  flex: 1 0 100%;
+  -webkit-box-flex: 1;
+          flex: 1 0 100%;
   max-width: 1500px;
   text-align: center;
   padding-top: 50px; }
@@ -136,7 +139,8 @@ body > header {
     display: none; }
   @media screen and (max-width: 600px) {
     body > header {
-      flex: 1 0 auto; }
+      -webkit-box-flex: 1;
+              flex: 1 0 auto; }
       body > header nav {
         position: absolute;
         top: 9px;
@@ -173,7 +177,8 @@ body > header {
 
 .page-content {
   max-width: 1050px;
-  flex: 1 0 70%; }
+  -webkit-box-flex: 1;
+          flex: 1 0 70%; }
   .page-content .pinterest {
     margin: 5px; }
   .page-content .home article {
@@ -182,10 +187,12 @@ body > header {
     margin-bottom: 20px; }
   @media screen and (max-width: 600px) {
     .page-content {
-      flex: 1 0 auto; } }
+      -webkit-box-flex: 1;
+              flex: 1 0 auto; } }
 
 .sidebar {
-  flex: 1 0 30%;
+  -webkit-box-flex: 1;
+          flex: 1 0 30%;
   max-width: 450px; }
   @media screen and (max-width: 600px) {
     .sidebar {
@@ -196,10 +203,12 @@ body > header {
   @media screen and (max-width: 600px) {
     .sidebar {
       display: none;
-      flex: 1 0 auto; } }
+      -webkit-box-flex: 1;
+              flex: 1 0 auto; } }
 
 footer {
-  flex: 1 0 100%;
+  -webkit-box-flex: 1;
+          flex: 1 0 100%;
   align-self: flex-start;
   border-top: 1px solid #e8e8e8;
   padding: 30px 0; }
@@ -212,7 +221,8 @@ footer {
     margin-left: 0; }
   @media screen and (max-width: 600px) {
     footer {
-      flex: 1 0 auto; } }
+      -webkit-box-flex: 1;
+              flex: 1 0 auto; } }
 
 body > header .header-wrapper, .page-content .page-content-wrapper, .sidebar .sidebar-wrapper, footer .footer-wrapper {
   margin-right: auto;
