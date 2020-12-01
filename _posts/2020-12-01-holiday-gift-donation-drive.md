@@ -4,25 +4,24 @@ title: "2020 Holiday Gift Donation Drive"
 date: 2020-12-01T10:43:35-05:00
 ---
 
-![donation drive](/images/2019/donationdrive2019.png)
+![donation drive](/images/2020/2020donationdrive.png)
 
-**Over 22,000 children are sleeping in New York City homeless shelters tonight.**
+**More than 22,000 children are sleeping in New York City homeless shelters tonight.**
 
-It is that time of year again when we can help brighten the holiday season for some of NYC’s homeless youth. Help us by donating to our **10th Annual** Holiday Gift Donation Drive to benefit [The Partnership for the Homeless](http://partnershipforthehomeless.org)!
-
-![stripes!](/images/2016/redstripe2.gif)
-
-The Partnership for the Homeless is a NYC charity committed to building a just and equitable society and creating lasting community change through solution-oriented programs and policy initiatives that eliminate the root causes of homelessness. They provide all sorts of services, support, and advocacy for the homeless in NYC and they would greatly appreciate our donations. The money we collect will purchase toys, games, clothes, books and gift cards to be handed out to children at their Children’s Holiday Party in Brooklyn on Friday, December 13th, 2019.
-
-Let’s put together a huge donation of gifts for The Partnership!!
-
-Our donation drive will have a much shorter timeline this year. Your donation must be received by Friday, December 6th, 2019, so please consider donating as soon as possible. To streamline the process this year, online PayPal donations are the only option. We will use your Paypal donations to purchase gifts and gift cards for distribution at The Partnership for the Homeless Children’s Holiday Party on December 13th, OR to make a direct donation to The Partnership, depending on their greater need. Use the link below to donate OR send Paypal donations to rachel@swap-bot.com. All Paypal donations of \$10 or more will count toward a rating removal.
-
-**Click here to donate via [PayPal](https://www.paypal.me/swapbot).**
+Even during more prosperous times, up to 1 in 5 New Yorkers are living in poverty. At this very difficult pandemic time, that number is only increasing. Everyone is facing challenges right now, but Swap-bot is still hoping to show our annual support for [The Partnership for the Homeless](http://partnershipforthehomeless.org). This is our 11th annual donation drive and we would love your help!
 
 ![stripes!](/images/2016/redstripe2.gif)
 
-And here is the extra-special holiday bonus reward for your donation: Each Swap-bot member who sends in a donation of a gift card or item will earn the removal of one low (1 or 3) rating from their account!! You must make your Paypal donation by Friday, December 6th. If you do not have a poor rating on your account, you will receive a credit for one future rating removal. Each person can only earn one rating removal credit during this donation drive –- although you are welcome to donate more than \$10!
+The Partnership for the Homeless is a NYC charity committed to building a just and equitable society and creating lasting community change through solution-oriented programs and policy initiatives that eliminate the root causes of homelessness. They provide all sorts of services, support, and advocacy for the homeless in NYC and they would greatly appreciate our donations. The money we collect will go toward the Partnership's general mission and may also provide rent assistance to a family in need to prevent future homelessness.
+
+Our donation drive will run for all of December and we have two different giving options this year: 
+
+1- You can donate via [PayPal to Swap-bot](https://www.paypal.me/swapbot). We will use your Paypal donations to make a direct donation to The Partnership for the Homeless.
+2- OR send an email to rachel@swap-bot.com with the receipt of a donation you have made in Decemeber 2020 to another homeless assistance or food panty organization of your choice. This is a distinctly difficult time and we know that all local organizations need our support.
+
+![stripes!](/images/2016/redstripe2.gif)
+
+And here is the extra-special holiday bonus reward for your donation: Each Swap-bot member who sends in a donation of a gift card or item will earn the removal of one low (1 or 3) rating from their account!! You must make your donation by December 31st,2020. If you do not have a low rating on your account, you will receive a credit for one future rating removal. Each person can only earn one rating removal credit during this donation drive. **Please include your Swap-bot username with your donation, however you choose to donate.**
 
 ![stripes!](/images/2016/redstripe2.gif)
 
